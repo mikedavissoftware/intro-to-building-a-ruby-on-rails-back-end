@@ -1,0 +1,2 @@
+class MusicFan < ApplicationRecord
+end
